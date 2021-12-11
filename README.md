@@ -16,10 +16,10 @@ Guide:
 Once you run the program you can choose between these different actions: 
 
 	1. Convert BBB codec
-        2. Video Comparison
-        3. BBB stream default IP (192.168.1.30)
-        4. BBB stream select desired IP
-        exit. To end the program
+	2. Video Comparison
+	3. BBB stream default IP (192.168.1.30)
+	4. BBB stream select desired IP
+	exit. To end the program
 
  Now you can navigate throught the program.
  
